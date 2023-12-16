@@ -7,3 +7,4 @@ rate: u32 = 5u32; // 5%
 capital: u32 = 80u32;
 rate: u32 = 5u32; // 5%
 iterations: u8 = 10u8;
+ 
